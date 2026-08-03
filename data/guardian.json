@@ -1,0 +1,10 @@
+{
+    "guardian": false,
+    "exam_date": "omorrow",
+    "study_goal": 3,
+    "study_done": 0,
+    "blocked_apps": [
+        "instagram",
+        "youtube"
+    ]
+}

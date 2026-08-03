@@ -1,0 +1,2 @@
+AI_CHANNEL = None
+PREFIX = "!"
