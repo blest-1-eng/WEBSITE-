@@ -2,3 +2,8 @@ requests
 pillow
 edge-tts
 discord.py
+flask
+flask-cors
+requests
+gunicorn
+google-generativeai
