@@ -67,10 +67,9 @@ speechSynthesis.speak(speech);
     }
 
     catch(e){
-
-        typing.innerHTML = "Unable to connect to Nyra.";
-
-    }
+    console.log(e);
+    typing.innerHTML = "ERROR: " + e;
+}
 
 }
 

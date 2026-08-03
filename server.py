@@ -10,6 +10,8 @@ CORS(app)
 # WEBSITE
 # ==========================
 
+print("SERVER.PY LOADED SUCCESSFULLY")
+
 @app.route("/")
 def index():
     return send_from_directory("NyraWeb", "index.html")
